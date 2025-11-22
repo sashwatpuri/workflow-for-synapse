@@ -2,7 +2,7 @@
 ## Smart Farming Prediction System
 
 **Integrated Semester-2 Project**  
-**Status:** ✅ 100% Implemented
+**Status:** Ongoing
 
 ---
 
